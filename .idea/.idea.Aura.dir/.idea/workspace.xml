@@ -24,6 +24,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Aura/Aura.Build.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -160,7 +162,9 @@
       <workItem from="1705760558632" duration="6576000" />
       <workItem from="1705842292033" duration="193000" />
       <workItem from="1705947577691" duration="1093000" />
-      <workItem from="1705948876759" duration="5447000" />
+      <workItem from="1705948876759" duration="6761000" />
+      <workItem from="1706137544076" duration="4822000" />
+      <workItem from="1706180360822" duration="3325000" />
     </task>
     <servers />
   </component>
