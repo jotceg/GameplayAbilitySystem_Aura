@@ -9,6 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5db84ebf-cc77-45aa-b953-69f16b5617b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +201,13 @@
       <workItem from="1712685514872" duration="136000" />
       <workItem from="1712686080460" duration="680000" />
       <workItem from="1714338928221" duration="8000" />
-      <workItem from="1715000959042" duration="7846000" />
+      <workItem from="1715000959042" duration="8093000" />
+      <workItem from="1715100027783" duration="5365000" />
+      <workItem from="1715866013056" duration="2346000" />
+      <workItem from="1716116631584" duration="957000" />
+      <workItem from="1716118469985" duration="1021000" />
+      <workItem from="1716130363384" duration="108000" />
+      <workItem from="1719347923267" duration="4421000" />
     </task>
     <servers />
   </component>
